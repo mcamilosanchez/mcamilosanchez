@@ -18,13 +18,6 @@
 
 | [Product Lister App](https://github.com/mcamilosanchez/Compose-Product-Lister-Clean-MVVM)                                           | [Todo App](https://github.com/ArisGuimera/SimpleAndroidMVVM)                                           |
 |------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| <div align="center"><a href="https://github.com/mcamilosanchez/Compose-Product-Lister-Clean-MVVM" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="300" alt="Product Lister"></a></div> | <div align="center"><a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="300" alt="Todo App"></a></div> |
-| This application implements a product listing feature using **Jetpack Compose** and follows the **Clean MVVM architecture**.                  | A simple task management application that follows the **MVVM pattern**, showcasing basic CRUD operations for tasks.  |
-| [![Code](https://img.shields.io/badge/Code-yellow?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black)](https://github.com/mcamilosanchez/Compose-Product-Lister-Clean-MVVM)<br>[![Demo](https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=3fFD7f)](https://youtu.be/hhhSMXi0R3E) | [![Code](https://img.shields.io/badge/Code-yellow?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black)](https://github.com/ArisGuimera/SimpleAndroidMVVM)<br>[![Demo](https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=3fFD7f)](https://youtu.be/hhhSMXi0R3E) |
-
-
-
-
-<!--
-**mcamilosanchez/mcamilosanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+| <div align="center"><a href="https://github.com/mcamilosanchez/Compose-Product-Lister-Clean-MVVM" target="_blank"><img src="https://drive.google.com/file/d/1rgzImEoHkKFI9ME1q0ne4ASaWAL8w3ed/view" width="300" alt="Product Lister"></a></div> | <div align="center"><a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://drive.google.com/file/d/1rgzImEoHkKFI9ME1q0ne4ASaWAL8w3ed/view" width="300" alt="Todo App"></a></div> |
+| This application implements a product listing feature using **Jetpack Compose** and follows the **Clean MVVM** architecture.       | A simple task management application that follows the **MVVM** pattern, showcasing basic CRUD operations for tasks. |
+| <div align="center"><span>[![Code](https://img.shields.io/badge/Code-yellow?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black)](https://github.com/mcamilosanchez/Compose-Product-Lister-Clean-MVVM)</span> <span>[![Demo](https://img.shields.io/badge/Demo-red?style=for-the-badge&logo=remove.bg&logoColor=white&labelColor=black)](https://youtu.be/hhhSMXi0R3E)</span></div> | <div align="center"><span>[![Code](https://img.shields.io/badge/Code-yellow?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black)](https://github.com/ArisGuimera/SimpleAndroidMVVM)</span> <span>[![Demo](https://img.shields.io/badge/Demo-red?style=for-the-badge&logo=remove.bg&logoColor=white&labelColor=black)](https://youtu.be/hhhSMXi0R3E)</span></div> |
