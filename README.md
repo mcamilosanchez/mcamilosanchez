@@ -24,4 +24,4 @@
 
 ## Contact me:
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:camilo1632@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=black)](www.linkedin.com/in/manuel-camilo-sánchez-mejia-227b37145)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=black)](https://linkedin.com/in/manuel-camilo-sánchez-mejia-227b37145)
