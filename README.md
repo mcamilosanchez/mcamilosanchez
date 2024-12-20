@@ -23,5 +23,6 @@
 | <div align="center"><span>[![Code](https://img.shields.io/badge/Code-yellow?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black)](https://github.com/mcamilosanchez/Compose-Product-Lister-Clean-MVVM)</span> <span>[![Demo](https://img.shields.io/badge/Demo-red?style=for-the-badge&logo=remove.bg&logoColor=white&labelColor=black)](https://youtu.be/hhhSMXi0R3E)</span></div> | <div align="center"><span>[![Code](https://img.shields.io/badge/Code-yellow?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black)](https://github.com/mcamilosanchez/TodoAppTest)</span> <span>[![Demo](https://img.shields.io/badge/Demo-red?style=for-the-badge&logo=remove.bg&logoColor=white&labelColor=black)](https://youtu.be/hhhSMXi0R3E)</span></div> |
 
 ## Contact me:
-- Gmail
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:camilo1632@gmail.com)
+
 - Linkdln
